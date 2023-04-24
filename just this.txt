@@ -1,0 +1,85 @@
+[
+ {
+  "id": "1",
+  "name": "Apple iPhone 13",
+  "picture": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone13-color-lineup-220308_big_carousel.jpg.slideshow-xlarge_2x.jpg",
+  "description": "The Apple iPhone 13 features a 6.1-inch Super Retina XDR display, A15 Bionic chip, and a dual-camera system with 12MP Ultra-Wide and Wide lenses. It comes with 128GB, 256GB, or 512GB storage options and supports 5G connectivity. The iPhone 13 boasts a ceramic shield front cover and is water and dust resistant.",
+  "location": "Vilnius",
+  "price": 999
+ },
+ {
+  "id": "2",
+  "name": "Samsung Galaxy S22",
+  "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZV01Ooaix-9hM1KI24u2vrHWYU3nP_VELvw&usqp=CAU",
+  "description": "The Samsung Galaxy S22 features a 6.1-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, powered by the Exynos 2200 chipset. It has a versatile triple-camera system, including a 108MP main camera, 12MP ultra-wide camera, and a 10MP telephoto lens. The device comes with 128GB or 256GB storage options and supports 5G connectivity.",
+  "location": "Kaunas",
+  "price": 849
+ },
+ {
+  "id": "3",
+  "name": "Sony WH-1000XM4",
+  "picture": "https://www.sony.lt/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320",
+  "description": "The Sony WH-1000XM4 are over-ear wireless headphones featuring industry-leading noise-canceling technology. They come with a long-lasting battery that provides up to 30 hours of playback time, touch controls, and a comfortable fit. The headphones also support multipoint Bluetooth connections and offer customizable sound profiles through the Sony Headphones Connect app.",
+  "location": "Klaipėda",
+  "price": 349
+ },
+ {
+  "id": "4",
+  "name": "Dell XPS 13",
+  "picture": "https://www.egnetas.lt/wp-content/uploads/2022/06/Dell-XPS-13-Plus-9320-Graphite-nesiojamasis-kompiuteris.jpg",
+  "description": "The Dell XPS 13 is a high-quality ultrabook with a 13.4-inch InfinityEdge display, powered by the latest Intel Core processors. It features a sleek, lightweight design and offers up to 16GB of RAM and 512GB of SSD storage. The laptop has a long-lasting battery, providing up to 14 hours of usage on a single charge.",
+  "location": "Šiauliai",
+  "price": 1199
+ },
+ {
+  "id": "5",
+  "name": "Nintendo Switch",
+  "picture": "https://hnsfpau.imgix.net/5/images/detailed/175/160214.1.jpg?fit=fill&bg=0FFF&w=1500&h=844&auto=format,compress",
+  "description": "The Nintendo Switch is a versatile gaming console that can be used both as a handheld device and connected to a TV. It features a 6.2-inch touchscreen display, 32GB of internal storage, and supports a wide range of games. The console comes with detachable Joy-Con controllers, which can be used for single-player or multiplayer gaming.",
+  "location": "Panevėžys",
+  "price": 299
+ },
+ {
+  "id": "6",
+  "name": "Bose SoundLink Revolve+ II",
+  "picture": "https://cdn.dxomark.com/wp-content/uploads/medias/post-74427/bose_soundlink_revolve_II.jpg",
+  "description": "The Bose SoundLink Revolve+ II is a portable Bluetooth speaker that delivers 360-degree sound, perfect for outdoor gatherings or listening at home. It offers up to 17 hours of battery life on a single charge and features a built-in handle for easy transport. The speaker has a water-resistant design",
+  "location": "Vilnius",
+  "price": 301
+ },
+ {
+  "id": "7",
+  "name": "Amazon Kindle Paperwhite",
+  "picture": "https://lt2.pigugroup.eu/colours/536/921/49/53692149/amazon-kindle-paperwhite-11th-gen-juoda-bad45_reference.jpg",
+  "description": "The Amazon Kindle Paperwhite is a lightweight and waterproof e-reader with a 6.8-inch glare-free display, making it perfect for reading in any environment. It has adjustable warm light settings and a battery life that lasts for weeks. The device comes with 8GB or 32GB storage options, allowing users to store thousands of books.",
+  "location": "Alytus",
+  "price": 139
+ },
+ {
+  "id": "8",
+  "name": "Sony PlayStation 5",
+  "picture": "https://ksd-images.lt/display/aikido/cache/fe86c2a228d71b91c5c81cf479c192c2.jpeg",
+  "description": "The Sony PlayStation 5 is a next-generation gaming console with a powerful custom-designed AMD processor and ultra-high-speed SSD for faster load times. It supports ray tracing, 3D audio, and 4K gaming with up to 120fps. The console features a new DualSense wireless controller, which offers haptic feedback and adaptive triggers for a more immersive gaming experience.",
+  "location": "Marijampolė",
+  "price": 499
+ },
+ {
+  "id": "9",
+  "name": "Logitech MX Master 3",
+  "picture": "https://ksd-images.lt/display/aikido/cache/793a975bc9903fb4e4d01fb831ec66a3.jpeg",
+  "description": "The Logitech MX Master 3 is a high-performance wireless mouse designed for advanced users. It features a comfortable ergonomic design, customizable buttons, and a precision scroll wheel. The mouse supports Logitech's Flow technology, allowing users to control multiple computers simultaneously and transfer files between them. The MX Master 3 has a rechargeable battery that lasts up to 70 days on a single charge.",
+  "location": "Tauragė",
+  "price": 99
+ },
+ {
+  "id": "10",
+  "name": "Fitbit Versa 3",
+  "picture": "https://www.varle.lt/static/uploads/products/1427/ism/ismanusis-laikrodis-fitbit-versa-3-smart_f3OCsel.jpg",
+  "description": "The Fitbit Versa 3 is a versatile smartwatch that helps users track their daily activity, heart rate, and sleep quality. It features built-in GPS, support for voice assistants, and a battery life of up to 6 days. The watch is water-resistant up to 50 meters and offers a variety of customizable watch faces and bands.",
+  "location": "Telšiai",
+  "price": 229
+ }
+]
+
+
+
